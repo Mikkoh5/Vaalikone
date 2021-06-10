@@ -1,1 +1,3 @@
 # Vaalikone
+
+Javalla tehty vaalikone.
